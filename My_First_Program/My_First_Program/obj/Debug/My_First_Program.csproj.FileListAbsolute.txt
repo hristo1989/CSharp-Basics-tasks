@@ -1,0 +1,6 @@
+D:\Kurs 20_04_2015\MyRepository\My_First_Program\My_First_Program\bin\Debug\My_First_Program.exe.config
+D:\Kurs 20_04_2015\MyRepository\My_First_Program\My_First_Program\bin\Debug\My_First_Program.exe
+D:\Kurs 20_04_2015\MyRepository\My_First_Program\My_First_Program\bin\Debug\My_First_Program.pdb
+D:\Kurs 20_04_2015\MyRepository\My_First_Program\My_First_Program\obj\Debug\My_First_Program.csprojResolveAssemblyReference.cache
+D:\Kurs 20_04_2015\MyRepository\My_First_Program\My_First_Program\obj\Debug\My_First_Program.exe
+D:\Kurs 20_04_2015\MyRepository\My_First_Program\My_First_Program\obj\Debug\My_First_Program.pdb
