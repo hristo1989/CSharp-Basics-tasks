@@ -11,10 +11,10 @@ namespace ConsoleApplication3
         static void Main(string[] args)
         {
             Console.Write("a = ");
-            double a = double.Parse(Console.ReadLine());
-            Console.Write("b = ");
-            double b = double.Parse(Console.ReadLine());
-            Console.WriteLine((a * b) / 2);
+            int a = int.Parse(Console.ReadLine());
+            Console.Write("ha = ");
+            int ha = int.Parse(Console.ReadLine());
+            Console.WriteLine((a * ha) / 2);
 
         }
     }
