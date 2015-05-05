@@ -14,6 +14,12 @@ namespace ConsoleApplication2
             string a = "This is my second program.";
             Console.WriteLine("Check if the sentence contains the word: Hello");
             Console.WriteLine(a.Contains("Hello"));
+
+            //string hello = "Hello";
+            //Console.Write ("Enter a string");
+            //string input = Console.ReadLine();
+            //bool result = input.ToLower ().Equals(hello.ToLower());
+            //Console.WriteLine("Result is: {0}", result);
         }
     }
 }

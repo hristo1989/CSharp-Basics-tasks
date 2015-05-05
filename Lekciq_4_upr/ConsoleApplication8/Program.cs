@@ -10,7 +10,10 @@ namespace ConsoleApplication8
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Enter a string");
+            string input = Console.ReadLine();
+            char result = input[2];
+            Console.WriteLine("Result is : {0}", result);
         }
     }
 }
