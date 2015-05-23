@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Zad_3")]
+[assembly: AssemblyTitle("Upr_3_zad")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Zad_3")]
+[assembly: AssemblyProduct("Upr_3_zad")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("f37b9bae-03df-4c52-9223-377dbc718748")]
+[assembly: Guid("b66bab5c-5637-4e47-9be7-4b740e8dabd9")]
 
 // Version information for an assembly consists of the following four values:
 //

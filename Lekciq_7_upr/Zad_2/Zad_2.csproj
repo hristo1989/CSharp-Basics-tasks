@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{82A04DED-E124-4E67-9811-DC7C50F6ADED}</ProjectGuid>
+    <ProjectGuid>{A884AAA3-6CA9-4416-9196-2CDB2D248684}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Zad_3</RootNamespace>
-    <AssemblyName>Zad_3</AssemblyName>
+    <RootNamespace>Zad_2</RootNamespace>
+    <AssemblyName>Zad_2</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
